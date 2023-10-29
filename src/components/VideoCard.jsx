@@ -28,7 +28,7 @@ const VideoCard = ({
         alt={snippet?.title}
         sx={{
           width: {
-            xs: "360px",
+            xs: "380px",
             sm: "358px",
             md: "320px",
           },
